@@ -1,5 +1,5 @@
-# DarkSell
-DarkSell – 2D RPG Game Project
+# Village
+Village - 2.5D RPG Project
 
 ## Project Info
 
